@@ -1,0 +1,6 @@
+@MystMovie.TorrentService_HostAddress = http://localhost:5079
+
+GET {{MystMovie.TorrentService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

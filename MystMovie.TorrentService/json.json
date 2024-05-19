@@ -1,0 +1,76 @@
+{
+    "docs": [
+        {
+            "id": 535341,
+            "name": "1+1",
+            "alternativeName": "Intouchables",
+            "enName": "",
+            "type": "movie",
+            "year": 2011,
+            "description": "Пострадав в результате несчастного случая, богатый аристократ Филипп нанимает в помощники человека, который менее всего подходит для этой работы, – молодого жителя предместья Дрисса, только что освободившегося из тюрьмы. Несмотря на то, что Филипп прикован к инвалидному креслу, Дриссу удается привнести в размеренную жизнь аристократа дух приключений.",
+            "shortDescription": "Аристократ на коляске нанимает в сиделки бывшего заключенного. Искрометная французская комедия с Омаром Си",
+            "movieLength": 112,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "r",
+            "ageRating": 18,
+            "top10": null,
+            "top250": 1,
+            "typeNumber": 1,
+            "status": null,
+            "names": [
+                {
+                    "name": "1+1",
+                    "language": "RU",
+                    "type": "Russian title on kinopoisk"
+                },
+                {
+                    "name": "Intouchables",
+                    "language": null,
+                    "type": "Original title on kinopoisk"
+                }
+            ],
+            "externalId": {
+                "kpHD": "4127663ed234fa8584aeb969ceb02cd8"
+            },
+            "logo": null,
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1946459/bf93b465-1189-4155-9dd1-cb9fb5cb1bb5/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1946459/bf93b465-1189-4155-9dd1-cb9fb5cb1bb5/x1000"
+            },
+            "backdrop": {
+                "url": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a000001607394c5d88c8722dd5ea6728fa4/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/374297/2a000001607394c5d88c8722dd5ea6728fa4/x1000"
+            },
+            "rating": {
+                "kp": 8.824,
+                "imdb": 8.5,
+                "filmCritics": 6.8,
+                "russianFilmCritics": 100
+            },
+            "votes": {
+                "kp": 2039933,
+                "imdb": 927219,
+                "filmCritics": 129,
+                "russianFilmCritics": 12,
+                "await": 15
+            },
+            "genres": [
+                {
+                    "name": "драма"
+                },
+                {
+                    "name": "комедия"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Франция"
+                }
+            ],
+            "releaseYears": []
+        }
+    ]
+}
