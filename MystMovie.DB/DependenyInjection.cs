@@ -20,12 +20,12 @@ namespace MystMovie.DB
 
 			services.AddDbContext<MovieContext>(options =>
 			{
-				options.UseSqlServer(
+				options.UseNpgsql(
 					connectionString,
 					options => options.EnableRetryOnFailure(
 					maxRetryCount: 5,
 					maxRetryDelay: System.TimeSpan.FromSeconds(30),
-					errorNumbersToAdd: null)
+					errorCodesToAdd: null)
 				);
 			});
 
