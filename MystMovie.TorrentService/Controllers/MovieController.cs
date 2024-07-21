@@ -28,7 +28,7 @@ namespace MystMovie.TorrentService.Controllers
 
 		[HttpGet]
 		public async Task<List<Movie>> GetAllAsync(int from = 0, int to = 10)
-			=> await _movieContext.Movies.Skip(from).Take(to).ToListAsync();
+			=> await _movieContext.Movies.OrderBy(x => x.Name).Skip(from).Take(to).ToListAsync();
 
 		[HttpGet("genreId")]
 		public async Task<List<Movie>> GetByGenreAsync(Guid genreId, int from = 0, int to = 10) 
